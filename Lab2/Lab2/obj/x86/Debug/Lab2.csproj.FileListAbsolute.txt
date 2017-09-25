@@ -1,0 +1,5 @@
+/Users/yamamotoai/Projects/Lab2/Lab2/bin/Debug/Lab2.exe
+/Users/yamamotoai/Projects/Lab2/Lab2/bin/Debug/Lab2.pdb
+/Users/yamamotoai/Projects/Lab2/Lab2/obj/x86/Debug/Lab2.csproj.CoreCompileInputs.cache
+/Users/yamamotoai/Projects/Lab2/Lab2/obj/x86/Debug/Lab2.exe
+/Users/yamamotoai/Projects/Lab2/Lab2/obj/x86/Debug/Lab2.pdb
