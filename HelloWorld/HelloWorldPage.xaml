@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:HelloWorld" x:Class="HelloWorld.HelloWorldPage">
+	<Label Text="Welcome to Xamarin Forms!" VerticalOptions="Center" HorizontalOptions="Center" />
+<StackLayout
+        Orientation="Vertical"
+        BindingContext="{x:Reference slider1}">
+        <BoxView Color="Green"
+        Opacity="{Binding Source = {x:Reference slider1}
+            , Path= Value}"/>
+<!--     Markup extension   -->
+        <Label Text="{Binding Source = {x:Reference slider1}
+            , Path= Value
+            , StringFormat='Value is {0:F2}'}"
+            Opacity="{Binding Source = {x:Reference slider1}
+            , Path= Value}"
+            HorizontalOptions="Center"
+        x:Name="label1"/>
+        <Slider HorizontalOptions="FillAndExpand"
+        x:Name="slider1"/>
+        
+    </StackLayout>
+</ContentPage>
