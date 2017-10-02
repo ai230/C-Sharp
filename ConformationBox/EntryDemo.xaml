@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ConformationBox.EntryDemo">
+	<ContentPage.Content>
+        <StackLayout>
+            <Entry Placeholder="Phone" Keyboard="Numeric"/>
+            <Entry Placeholder="Email" Keyboard="Text" />
+            <Entry Placeholder="Password" IsPassword="true" Completed="Handle_Completed"/>
+            <Entry Placeholder="Password" IsPassword="true" TextChanged="Handle_TextChanged"/>
+            <Label x:Name="myLabel" Text="Hi"/>
+            <Editor VerticalOptions="FillAndExpand" BackgroundColor="Aqua"/>
+        </StackLayout>
+	</ContentPage.Content>
+</ContentPage>

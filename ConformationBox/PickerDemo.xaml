@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ConformationBox.PickerDemo">
+	<ContentPage.Content>
+        <Picker x:Name="myPicker" Title="Contact Method" SelectedIndexChanged="Handle_SelectedIndexChanged">
+        <Picker.Items>
+            <x:String>Email</x:String>
+                <x:String>Call</x:String>
+            </Picker.Items>
+        </Picker>
+	</ContentPage.Content>
+</ContentPage>
