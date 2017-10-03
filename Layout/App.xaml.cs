@@ -8,7 +8,7 @@ namespace LayoutExample
         {
             InitializeComponent();
 
-            MainPage = new RelativeLayoutEx();
+            MainPage = new Tabbed();
         }
 
         protected override void OnStart()
