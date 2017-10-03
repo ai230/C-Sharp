@@ -4,7 +4,7 @@
         <StackLayout>
             <ListView x:Name="myListView" SeparatorColor="Green"
                 IsGroupingEnabled="true"
-                GroupDisplayBinding="{Binding ShotrTitle}"
+                GroupDisplayBinding="{Binding ShortTitle}"
                 Header="Contact"
                 ItemTapped="MyListView_ItemTapped"
                 ItemSelected="MyListView_ItemSelected">

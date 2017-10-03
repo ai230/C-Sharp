@@ -22,6 +22,9 @@ namespace ListViewEx2
             var Page4 = new NavigationPage(new ContactAction());
 			Page4.Title = "Page4";
 			this.Children.Add(Page4);
+            var Page5 = new NavigationPage(new SearchAction());
+			Page5.Title = "Page5";
+			this.Children.Add(Page5);
 
         }
     }
