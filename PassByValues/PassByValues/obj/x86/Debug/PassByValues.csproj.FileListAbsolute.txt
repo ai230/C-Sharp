@@ -1,0 +1,6 @@
+/Users/yamamotoai/Projects/PassByValues/PassByValues/bin/Debug/PassByValues.exe
+/Users/yamamotoai/Projects/PassByValues/PassByValues/bin/Debug/PassByValues.pdb
+/Users/yamamotoai/Projects/PassByValues/PassByValues/obj/x86/Debug/PassByValues.csproj.CoreCompileInputs.cache
+/Users/yamamotoai/Projects/PassByValues/PassByValues/obj/x86/Debug/PassByValues.exe
+/Users/yamamotoai/Projects/PassByValues/PassByValues/obj/x86/Debug/PassByValues.pdb
+/Users/yamamotoai/Projects/PassByValues/PassByValues/obj/x86/Debug/PassByValues.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+/Users/yamamotoai/Projects/Introduction/Introduction/bin/Debug/Introduction.exe
+/Users/yamamotoai/Projects/Introduction/Introduction/bin/Debug/Introduction.pdb
+/Users/yamamotoai/Projects/Introduction/Introduction/obj/x86/Debug/Introduction.csproj.CoreCompileInputs.cache
+/Users/yamamotoai/Projects/Introduction/Introduction/obj/x86/Debug/Introduction.exe
+/Users/yamamotoai/Projects/Introduction/Introduction/obj/x86/Debug/Introduction.pdb

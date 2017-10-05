@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E51EC3FD-2C97-4E8B-918D-52467981A429}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumberConversions/Program.cs">
+    <Files>
+      <File FileName="NumberConversions/Program.cs" Line="28" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NumberConversions" expanded="True">
+            <Node name="NumberConversions" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NumberConversions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

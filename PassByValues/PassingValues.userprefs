@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{84AF1350-9BF1-42F2-9EC9-915A2AAB0F6B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PassByValues/Program.cs">
+    <Files>
+      <File FileName="PassByValues/Program.cs" Line="9" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PassingValues" expanded="True" selected="True">
+            <Node name="PassByValues" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PassByValues PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

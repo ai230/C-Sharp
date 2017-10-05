@@ -1,0 +1,5 @@
+/Users/yamamotoai/Projects/Loops/Loops/bin/Debug/Loops.exe
+/Users/yamamotoai/Projects/Loops/Loops/bin/Debug/Loops.pdb
+/Users/yamamotoai/Projects/Loops/Loops/obj/x86/Debug/Loops.csproj.CoreCompileInputs.cache
+/Users/yamamotoai/Projects/Loops/Loops/obj/x86/Debug/Loops.exe
+/Users/yamamotoai/Projects/Loops/Loops/obj/x86/Debug/Loops.pdb

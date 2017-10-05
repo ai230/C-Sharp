@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{42327A07-78F8-40C7-BAB4-8FBE0E917682}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.cs">
+    <Files>
+      <File FileName="NavigationExercise/Tabbed.xaml.cs" Line="13" Column="36" />
+      <File FileName="iOS/Main.cs" Line="18" Column="10" />
+      <File FileName="NavigationExercise/InstagramList.xaml" Line="23" Column="1" />
+      <File FileName="NavigationExercise/InstagramDetail.xaml" Line="16" Column="1" />
+      <File FileName="NavigationExercise/Activity.cs" Line="6" Column="17" />
+      <File FileName="NavigationExercise/NavigationExercisePage.xaml" Line="5" Column="1" />
+      <File FileName="NavigationExercise/InstagramDetail.xaml.cs" Line="18" Column="28" />
+      <File FileName="NavigationExercise/InstagramList.xaml.cs" Line="18" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NavigationExercise.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NavigationExercise.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F3ABA2CE-DF6D-4631-8E52-E195290D934D">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.NavigationExercise.iOS>
+</Properties>

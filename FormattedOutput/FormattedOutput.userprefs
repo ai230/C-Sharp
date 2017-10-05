@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7B99081A-9CFE-4275-9E9E-83B3C7024D99}|Default">
+  <MonoDevelop.Ide.ItemProperties.FormattedOutput PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormattedOutput/Program.cs">
+    <Files>
+      <File FileName="FormattedOutput/Program.cs" Line="17" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FormattedOutput" expanded="True">
+            <Node name="FormattedOutput" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

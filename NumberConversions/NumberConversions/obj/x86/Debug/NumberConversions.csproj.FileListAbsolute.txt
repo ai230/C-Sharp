@@ -1,0 +1,5 @@
+/Users/yamamotoai/Projects/NumberConversions/NumberConversions/bin/Debug/NumberConversions.exe
+/Users/yamamotoai/Projects/NumberConversions/NumberConversions/bin/Debug/NumberConversions.pdb
+/Users/yamamotoai/Projects/NumberConversions/NumberConversions/obj/x86/Debug/NumberConversions.csproj.CoreCompileInputs.cache
+/Users/yamamotoai/Projects/NumberConversions/NumberConversions/obj/x86/Debug/NumberConversions.exe
+/Users/yamamotoai/Projects/NumberConversions/NumberConversions/obj/x86/Debug/NumberConversions.pdb

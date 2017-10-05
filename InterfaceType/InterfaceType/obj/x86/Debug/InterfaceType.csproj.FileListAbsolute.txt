@@ -1,0 +1,5 @@
+/Users/yamamotoai/Projects/InterfaceType/InterfaceType/obj/x86/Debug/InterfaceType.csproj.CoreCompileInputs.cache
+/Users/yamamotoai/Projects/InterfaceType/InterfaceType/bin/Debug/InterfaceType.exe
+/Users/yamamotoai/Projects/InterfaceType/InterfaceType/bin/Debug/InterfaceType.pdb
+/Users/yamamotoai/Projects/InterfaceType/InterfaceType/obj/x86/Debug/InterfaceType.exe
+/Users/yamamotoai/Projects/InterfaceType/InterfaceType/obj/x86/Debug/InterfaceType.pdb

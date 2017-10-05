@@ -1,0 +1,5 @@
+/Users/yamamotoai/Projects/LogicalOperator/LogicalOperator/bin/Debug/LogicalOperator.exe
+/Users/yamamotoai/Projects/LogicalOperator/LogicalOperator/bin/Debug/LogicalOperator.pdb
+/Users/yamamotoai/Projects/LogicalOperator/LogicalOperator/obj/x86/Debug/LogicalOperator.csproj.CoreCompileInputs.cache
+/Users/yamamotoai/Projects/LogicalOperator/LogicalOperator/obj/x86/Debug/LogicalOperator.exe
+/Users/yamamotoai/Projects/LogicalOperator/LogicalOperator/obj/x86/Debug/LogicalOperator.pdb

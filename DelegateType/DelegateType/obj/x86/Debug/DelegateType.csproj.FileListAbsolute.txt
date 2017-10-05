@@ -1,0 +1,5 @@
+/Users/yamamotoai/Projects/DelegateType/DelegateType/bin/Debug/DelegateType.exe
+/Users/yamamotoai/Projects/DelegateType/DelegateType/bin/Debug/DelegateType.pdb
+/Users/yamamotoai/Projects/DelegateType/DelegateType/obj/x86/Debug/DelegateType.csproj.CoreCompileInputs.cache
+/Users/yamamotoai/Projects/DelegateType/DelegateType/obj/x86/Debug/DelegateType.exe
+/Users/yamamotoai/Projects/DelegateType/DelegateType/obj/x86/Debug/DelegateType.pdb
